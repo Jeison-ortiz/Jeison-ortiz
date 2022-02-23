@@ -4,14 +4,16 @@ My name is Jeison Ortiz
 
 * I'm currently studying the last semester of electronic engineering at the university of Antioquia.
 
-## Skills
+### Skills
 * Using HTML
 * CSS
-* Conocimientos basicos en Python, kotlin y JavaScript
+* I have basic knowledge in Python, kotlin y JavaScript
 
-## Contact
+### Contact
 * ortizjeison4@gmail.com
 * https://www.linkedin.com/in/ortizjeison18/
+
+
 <!--
 **Jeison-ortiz/Jeison-ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
