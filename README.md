@@ -7,7 +7,7 @@ My name is Jeison Ortiz
 ### Skills
 * Using HTML
 * CSS
-* I have basic knowledge in Python, kotlin y JavaScript
+* I have basic knowledge in Python, kotlin and JavaScript
 
 ### Contact
 * ortizjeison4@gmail.com
