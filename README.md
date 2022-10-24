@@ -5,6 +5,7 @@ My name is Jeison Ortiz
 * I'm currently studying the last semester of electronic engineering at the university of Antioquia.
 
 ### Skills
+* Java
 * Using HTML
 * CSS
 * I have basic knowledge in Python, kotlin and JavaScript
