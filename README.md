@@ -6,6 +6,7 @@ My name is Jeison Ortiz
 
 ### Skills
 * Java
+* SQL
 * Using HTML
 * CSS
 * I have basic knowledge in Python, kotlin and JavaScript
