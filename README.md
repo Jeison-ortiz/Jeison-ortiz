@@ -6,6 +6,7 @@ My name is Jeison Ortiz
 
 ### Skills
 * Java
+* Spring Boot
 * SQL
 * Using HTML
 * CSS
