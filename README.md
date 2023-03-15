@@ -2,15 +2,18 @@
 
 My name is Jeison Ortiz
 
-* I'm I am electronic engineer at the university of Antioquia.
+* I'm electronic engineer at the university of Antioquia.
 
 ### Skills
 * Java
 * Spring Boot
+* API REST
 * SQL
 * Using HTML
 * CSS
 * I have basic knowledge in Python, kotlin and JavaScript
+
+I’m currently learning microservices and docker
 
 ### Contact
 * ortizjeison4@gmail.com
