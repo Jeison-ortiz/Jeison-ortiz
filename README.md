@@ -2,7 +2,7 @@
 
 My name is Jeison Ortiz
 
-* I'm currently studying the last semester of electronic engineering at the university of Antioquia.
+* I'm I am electronic engineer at the university of Antioquia.
 
 ### Skills
 * Java
