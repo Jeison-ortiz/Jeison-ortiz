@@ -13,7 +13,7 @@ My name is Jeison Ortiz
 * CSS
 * I have basic knowledge in Python, kotlin and JavaScript
 
-* I’m currently learning microservices and docker
+I’m currently learning microservices and docker
 
 ### Contact
 * ortizjeison4@gmail.com
