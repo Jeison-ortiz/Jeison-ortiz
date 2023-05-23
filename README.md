@@ -9,9 +9,10 @@ My name is Jeison Ortiz
 * Spring Boot
 * API REST
 * SQL
-* Using HTML
+* HTML 5
 * CSS
-* I have basic knowledge in Python, kotlin and JavaScript
+* Python
+* I have basic knowledge in kotlin and JavaScript
 
 I’m currently learning microservices and docker
 
