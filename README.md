@@ -2,9 +2,8 @@
 
 My name is Jeison Ortiz
 
-* Soy ingeniero electrónico con experiencia como desarrollador Java. Poseo habilidades de liderazgo, perseverancia y comunicación asertiva, lo que me permite trabajar en equipo y ser responsable con las tareas asignadas. Mi perfil se caracteriza por ser creativo y apasionado por las nuevas tecnologías, siempre buscando aprender y mejorar.
-
-* Tengo experiencia en programación orientada a objetos y en el desarrollo de servicios REST con Spring Boot y JPA, utilizando herramientas como Postman para la gestión de peticiones HTTP. Además, cuento con conocimientos en python, SQL, HTML5, CSS, metodologías ágiles y sistemas de control de versiones como GitHub y GitFlow. Tengo conocimientos en la realización de pruebas unitarias con JUnit5, así como en la gestión de bases de datos y en el manejo de la terminal de Linux.
+*I am an electronic engineer with experience as a Java developer. I possess leadership, perseverance, and assertive communication skills, allowing me to work effectively in a team and be responsible for assigned tasks. My profile is characterized by creativity and a passion for new technologies, always seeking to learn and improve.
+I have experience in object-oriented programming and in the development of REST services with Spring Boot and JPA, using tools like Postman for managing HTTP requests. Additionally, I have knowledge in Python, SQL, HTML5, CSS, agile methodologies, and version control systems such as GitHub and GitFlow. I am familiar with conducting unit tests with JUnit5, as well as database management and Linux terminal operations.
 
 ### Skills
 * Java
