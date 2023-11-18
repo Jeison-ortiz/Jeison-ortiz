@@ -6,7 +6,7 @@ I am an electronic engineer with experience as a Java developer. I possess leade
 I have experience in object-oriented programming and in the development of REST services with Spring Boot and JPA, using tools like Postman for managing HTTP requests. Additionally, I have knowledge in Python, SQL, HTML5, CSS, agile methodologies, and version control systems such as GitHub and GitFlow. I am familiar with conducting unit tests with JUnit5, as well as database management and Linux terminal operations.
 
 ### Skills
-![Logo de Java](ruta/del/repositorio/tu-imagen-java.png)
+![Java]([ruta/del/repositorio/tu-imagen-java.png](https://thumbs.dreamstime.com/z/java-logo-vector-design-commercial-brand-trademark-118452997.jpg?w=768))
 * Java
 * Spring Boot
 * API REST
