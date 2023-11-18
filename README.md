@@ -13,7 +13,7 @@ I have experience in object-oriented programming and in the development of REST 
 * HTML 5
 * CSS
 * Python
-* I have basic knowledge in kotlin and JavaScript
+* Basic knowledge in kotlin and JavaScript
 
 I’m currently learning microservices and docker
 
