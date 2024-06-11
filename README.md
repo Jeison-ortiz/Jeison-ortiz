@@ -18,7 +18,7 @@ I have experience in object-oriented programming and in the development of REST 
 - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) Basic knowledge in Kotlin
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) Basic knowledge in JavaScript
 
-I’m currently learning microservices and Docker
+I’m currently learning, english, microservices and Docker
 
 ### 📫 Contact
 
