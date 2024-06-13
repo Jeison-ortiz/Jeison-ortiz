@@ -8,13 +8,13 @@ I have experience in object-oriented programming and in the development of REST 
 
 ### 🛠️ Skills
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) Java
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) Spring Boot
-- ![API REST](https://img.shields.io/badge/API_REST-%2300D1B2.svg?style=for-the-badge&logo=api&logoColor=white) API REST
-- ![SQL](https://img.shields.io/badge/SQL-%2300007C.svg?style=for-the-badge&logo=sql&logoColor=white) SQL
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML5
-- ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) Python
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+- ![API REST](https://img.shields.io/badge/API_REST-%2300D1B2.svg?style=for-the-badge&logo=api&logoColor=white) 
+- ![SQL](https://img.shields.io/badge/SQL-%2300007C.svg?style=for-the-badge&logo=sql&logoColor=white) 
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 - ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) Basic knowledge in Kotlin
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) Basic knowledge in JavaScript
 
